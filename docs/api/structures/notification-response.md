@@ -5,3 +5,4 @@
 * `identifier` string - The unique identifier for this notification request.
 * `userInfo` Record\<string, any\> - A dictionary of custom information associated with the notification.
 * `userText` string (optional) - The text entered or chosen by the user.
+* GNOME heval baver öncel
